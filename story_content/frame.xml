@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="OKROKR" />
+              <option name="title_text" value="OKRs" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1577,7 +1577,7 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.684fVGbRga8.6DWKIl7SfmG" displaytext="Steps in OKR" expand="false" type="slide" />
+        <slidelink slideid="_player.684fVGbRga8.5pNgGy4x49q" displaytext="Product Mission &amp;amp; Vision" expand="false" type="slide" />
       </links>
     </outline>
   </nav_data>
